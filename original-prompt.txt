@@ -1,0 +1,12 @@
+Please rewrite the following event text to greatly improve conversions for the event. Keep it in markdown format only, with no explanations or commentary outside of the markdown. The output should include clear formatting (headings, bullet points, etc.) but contain nothing outside the markdown formatting.
+
+Please rewrite the following text as improved event copy in markdown format only, with no explanations or commentary outside of the markdown. The output should include clear formatting (headings, bullet points, etc.) but contain nothing outside the markdown formatting.
+
+** CHANGES**
+[Execute previous nodes for preview]
+
+**EVENT COPY**
+{{ $('Convert page to markdown').first.json.output }}
+
+**OUTPUT REQUIREMENTS**
+Keep it in markdown format only, with no explanations or commentary outside of the markdown. The output should include clear formatting (headings, bullet points, etc.) but contain nothing outside the markdown formatting.
